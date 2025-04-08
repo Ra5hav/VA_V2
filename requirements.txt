@@ -1,0 +1,6 @@
+streamlit
+openai
+elevenlabs
+SpeechRecognition
+pyaudio
+st_audiorec
